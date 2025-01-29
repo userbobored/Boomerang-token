@@ -1,7 +1,7 @@
 {
-    "name": "Boomerang",
-    "symbol": "BOOM",
-    "uri": "https://imgur.com/a/boomerang-2YRklkU",
-    "sellerFeeBasisPoints": 0,
-    "creators": null
+  "name": "Boomerang",
+  "symbol": "BOOM",
+  "uri": "https://imgur.com/a/boomerang-2YRklkU",
+  "seller_fee_basis_points": 0,
+  "creators": [Elon Musk]
 }
